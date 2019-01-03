@@ -1,2 +1,3 @@
 This is file 2 in branch
 changes made in master
+changes 2 in Master
