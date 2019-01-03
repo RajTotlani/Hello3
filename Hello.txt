@@ -1,2 +1,3 @@
 Hello Text File
 Line added in branch one
+Line added in Master
