@@ -1,1 +1,2 @@
 Hello Text File
+Line added in Master
